@@ -1,0 +1,11 @@
+langchain
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+python-docx
+tqdm
+streamlit
+torch
+torchvision
+
